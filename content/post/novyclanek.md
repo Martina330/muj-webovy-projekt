@@ -1,13 +1,13 @@
 ---
-title: O kávì
+title: O kÃ¡vÄ›
 date: 2019-04-10
 tags: 
     - beatles
     - data
 ---
 
-Toto video je o zajímavostech o kávì. Je dlouhé skoro 2 minuty. Je zajímavé a pøekvapivé.
-Vybrala jsem si ho, protoe se jedná o náš tımovı projekt a hledala jsem nìco k tématu.
+Toto video je o zajÃ­mavostech o kÃ¡vÄ›. Je dlouhÃ© skoro 2 minuty. Je zajÃ­mavÃ© a pÅ™ekvapivÃ©.
+Vybrala jsem si ho, protoÅ¾e se jednÃ¡ o nÃ¡Å¡ tÃ½movÃ½ projekt a hledala jsem nÄ›co k tÃ©matu.
 
 See how to include data inside your posts:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zpu0w1_L4ts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
